@@ -35,3 +35,8 @@ Uygulama acildiginda:
 ## Not
 
 Arayuz sade tutulmustur; odak pipeline'in calisir olmasidir.
+
+## Neden bu proje?
+
+Bu proje, kişisel ihtiyacım için vibe coding yaklaşımıyla geliştirildi.
+Amaç: MP4/WEBM videolarını hızlıca SRT/VTT/JSON transkripte dönüştürmek.
