@@ -1,0 +1,8 @@
+target/
+cıktı/
+*.wav
+*.srt
+*.vtt
+*.json
+whisper.cpp/
+mp4_transkript_yol_haritasi.txt
